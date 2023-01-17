@@ -6,4 +6,5 @@
 - Random info: I managed to get 157WPM on https://monkeytype.com and I play bass in two bands.
 - Interests: Open Source in general, zsh modifications, automation, lifting weights, music.
 
-![alt text](https://ipfs.pixura.io/ipfs/QmUS8EskznV88DENcpEQRrgZfpwLfAT7hwfwCVGCoeGBqs/AN-Dm.gif)
+![alt text](https://media.tenor.com/2SdLMOWO_TkAAAAC/all-your-base-all-your-base-are-belong-to-us.gif)
+<!-- ![alt text](https://ipfs.pixura.io/ipfs/QmUS8EskznV88DENcpEQRrgZfpwLfAT7hwfwCVGCoeGBqs/AN-Dm.gif) -->

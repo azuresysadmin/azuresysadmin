@@ -4,6 +4,6 @@
 -  I’m currently getting a deeper knowledge in automation; such as Terraform/Terragrunt, Pipelines, git etc.
 - Reach me at: azuresysadmin@pm.me or info@sudobay.tech
 - Random info: I managed to get 157WPM on https://monkeytype.com and I play bass in two bands.
-- Interests: Open Source in general, zsh modifications, automation, Vim, lifting weights, music.
+- Interests: Open Source in general, zsh modifications, automation, lifting weights, music.
 
 ![alt text](https://ipfs.pixura.io/ipfs/QmUS8EskznV88DENcpEQRrgZfpwLfAT7hwfwCVGCoeGBqs/AN-Dm.gif)

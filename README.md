@@ -3,7 +3,7 @@
 
 - I’m currently working as a Cloud Engineer with a focus on Microsoft Azure. <br>I have worked in IT for about 9 years, in a wide variety of roles. Mostly as a contractor. 
 -  I’m currently trying to get a deeper understanding within automation; such as Terraform/Terragrunt, Pipelines, git etc.
-- Reach me at: azuresysadmin@pm.me
+- Reach me at: [azuresysadmin@pm.me](https://sudobay.tech/contact/)
 - Random info: I managed to get 157WPM on https://monkeytype.com and I play bass in two bands.
 - Interests: Open Source in general, zsh modifications, automation, lifting weights, music.
 
